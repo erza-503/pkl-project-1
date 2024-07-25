@@ -989,7 +989,6 @@ h1 {
 
 @media (min-width: 1000px) {
   #psot {
-    height: 70vh;
     background-color: #043873;
     width: auto;
   }
@@ -1185,7 +1184,7 @@ h1 {
   }
 
   #psot {
-    height: 70vh;
+ 
     background-color: #043873;
     width: auto;
   }
